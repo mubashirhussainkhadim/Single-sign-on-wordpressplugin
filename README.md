@@ -37,4 +37,4 @@ Contributions are welcome! If you'd like to contribute to the development of thi
 This project is licensed under the [MIT License](link_to_license).
 
 ## Credits
-SSO Integration WordPress Plugin is developed by [Asian Solutions](link_to_author).
+SSO Integration WordPress Plugin is developed by Mubashirhussain
