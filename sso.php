@@ -1,11 +1,11 @@
 
 <?php
 /**
- * Plugin Name: SSO.ID Integration
- * Plugin URI: http://sso.id/
+ * Plugin Name: SSO Integration
+ * Plugin URI: https://github.com/mubashirhussainkhadim/Single-sign-on-wordpressplugin/edit/main/sso.php
  * Description: Integrates WordPress with SSO.ID for single sign-on capabilities.
  * Version: 1.0
- * Author: Asian Solutions
+ * Author: Mubashir Hussain
  */
 
 // Options page settings
